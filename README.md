@@ -1,5 +1,7 @@
-### nsnow
+### c language
+## cli app template
+# for gcc and gnu make
 
-__an ncurses snowy day terminal screen saver__
+__these are italics__
 
-2022 by johngineer
+this is regular text
