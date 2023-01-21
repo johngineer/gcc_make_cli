@@ -1,7 +1,10 @@
-### c language
-## cli app template
-# for gcc and gnu make
+# c language
+## samples README.md
+### cli app template
+#### for gcc and gnu make
 
-__these are italics__
+__this is bold text__
+
+*this is italics*
 
 this is regular text
