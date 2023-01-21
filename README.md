@@ -1,8 +1,9 @@
-# c language
-## sample README.md
-### cli app template for gcc and gnu make
+# c language template
+## for building command-line applications with gcc and gnu make
+### sample README.md
 
-makefile and directory structure to build a c-language command-line app from a main program and includes.
+
+Includes makefile and directory structure to build a C language command-line app from a main program and includes.
 
 #### prerequisites:
 * gcc (c language): https://gcc.gnu.org
