@@ -1,15 +1,15 @@
-# c language template
-## for building command-line applications with gcc and gnu make
+# c language executable template
+## for command-line applications with gcc and gnu make
 ### sample README.md
 
 
-Includes makefile and directory structure to build a C language command-line app from a main program and includes.
+Includes makefile and directory structure to build a C language command-line app from a main program and included subroutines.
 
 #### prerequisites:
 * gcc (c language): https://gcc.gnu.org
 * gnu make: https://www.gnu.org/software/make/
  ----
-#### directories:
+#### directory structure:
 * /gccmesg :      compiler warning and error messages
 * /obj :          compiler output object files
 * /src :          compiler input source files
